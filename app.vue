@@ -15,7 +15,7 @@
       </div>
     </div>
   </div>
-  <div style="margin-top:4rem">
+  <div style="margin-top:4rem;min-height: 60VH">
     <NuxtPage/>
   </div>
 

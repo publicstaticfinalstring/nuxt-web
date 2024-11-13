@@ -1,7 +1,6 @@
 <template>
-
-  <div>
-    <NuxtLink to="/">我是测试页面</NuxtLink>
+  <div style="height: 20rem;background-color: aquamarine">
+    我是页脚
   </div>
 </template>
 

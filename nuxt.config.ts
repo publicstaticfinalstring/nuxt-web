@@ -21,5 +21,7 @@ export default defineNuxtConfig({
         }
     },
     // 启动路由的配置
-    pages: true
+    pages: true,
+    // 引入自定义css全局样式
+    css: ['~/assets/app.css']
 })
